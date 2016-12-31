@@ -18,9 +18,13 @@ organized? How would branches help?
 They help to maintain different versions of a programm.
 
 How do the diagrams help you visualize the branch structure?
+We can see the whole tree of commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Cool!
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Pros: Confilct solving.
+Contra: You need to take cake youself.
